@@ -16,6 +16,7 @@ jobs:
       contents: read
       pull-requests: write  # Для комментариев в PR
       checks: write
+      issues: write
     
     steps:
     - name: Checkout code
