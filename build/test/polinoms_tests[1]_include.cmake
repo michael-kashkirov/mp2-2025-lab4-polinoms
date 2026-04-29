@@ -1,0 +1,5 @@
+if(EXISTS "/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/test/polinoms_tests[1]_tests.cmake")
+  include("/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/test/polinoms_tests[1]_tests.cmake")
+else()
+  add_test(polinoms_tests_NOT_BUILT polinoms_tests_NOT_BUILT)
+endif()

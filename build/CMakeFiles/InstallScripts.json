@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/cmake_install.cmake",
+		"/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/test/cmake_install.cmake",
+		"/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/michaelsmacbook/mp2-2025-lab4-polinoms/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
