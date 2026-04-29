@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/polinoms_tests.dir/test_main.cpp.o CMakeFiles/polinoms_tests.dir/__/src/polinom.cpp.o -o polinoms_tests  ../lib/libgtest.a
